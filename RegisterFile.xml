@@ -1,0 +1,119 @@
+<Register>
+  <Solutions>
+    <Solution Assembly="Net.Formulas.Tools.dll" Id="f20a7a28-b5d5-48f4-84af-8541d4e7f9a0" IsolationMode="2" SourceType="0">
+      <PluginTypes>
+        <Plugin friendlyname="9ad63c61-ffe6-4565-80d8-81ddb5415dcb" Name="Net.Formulas.Tools.Pluggin.ScreensProcessingPlugin" Id="9e7899c7-d53c-4572-93fe-47422a5627a6" TypeName="Net.Formulas.Tools.Pluggin.ScreensProcessingPlugin">
+          <Steps>
+            <Step Name="Screens : Request Creation" Description="Net.Formulas.Tools.Pluggin.ScreensProcessingPlugin: Create of cat_reviewrequest" Id="1c84742c-3aaa-eb11-8236-000d3a18d295" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+            <Step Name="Screens : Request Creation" Description="Net.Formulas.Tools.Pluggin.ScreensProcessingPlugin: Create of cat_reviewrequest" Id="bfcddc52-532d-ec11-b6e5-002248209036" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+        <Plugin friendlyname="48955445-a8ae-4216-90dc-5cdde252f816" Name="Net.Formulas.Tools.Pluggin.MediaFilesProcessingplugin" Id="80e718d8-3016-4ce4-a0d4-87f389ce8e74" TypeName="Net.Formulas.Tools.Pluggin.MediaFilesProcessingplugin">
+          <Steps>
+            <Step Name="MediaFiles : Request Creation" Description="Net.Formulas.Tools.Pluggin.MediaFilesProcessingplugin: Create of cat_reviewrequest" Id="2fbf2796-39aa-eb11-8236-000d3a18d295" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+            <Step Name="MediaFiles : Request Creation" Description="Net.Formulas.Tools.Pluggin.MediaFilesProcessingplugin: Create of cat_reviewrequest" Id="ac445f19-532d-ec11-b6e5-002248209036" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+        <Plugin friendlyname="1fc0a25e-0e8d-40d0-9146-861ca0a5898b" Name="Net.Formulas.Tools.Tools.AppCheckerResultsProcessingPlugin" Id="740a9301-fb4f-4e63-a905-a1ee2980ee26" TypeName="Net.Formulas.Tools.Tools.AppCheckerResultsProcessingPlugin">
+          <Steps>
+            <Step Name="AppChecker : Request Creation" Description="Net.Formulas.Tools.Tools.AppCheckerResultsProcessingPlugin: Create of cat_reviewrequest" Id="889da845-3aaa-eb11-8236-000d3a18d295" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+            <Step Name="AppChecker : Request Creation" Description="Net.Formulas.Tools.Tools.AppCheckerResultsProcessingPlugin: Create of cat_reviewrequest" Id="b1619b6e-532d-ec11-b6e5-002248209036" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+        <Plugin friendlyname="250e0a94-625b-4a7f-99c5-a5181ef6005c" Name="Net.Formulas.Tools.Tools.ReviewItemsProcessingPlugin" Id="73a8dc46-4a90-4cd5-9a47-b346722b31ff" TypeName="Net.Formulas.Tools.Tools.ReviewItemsProcessingPlugin">
+          <Steps>
+            <Step Name="ReviewItems : Request Creation" Description="Net.Formulas.Tools.Tools.ReviewItemsProcessingPlugin: Create of cat_reviewrequest" Id="6ebf4e78-3aaa-eb11-8236-000d3a18d295" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+            <Step Name="ReviewItems : Request Creation" Description="Net.Formulas.Tools.Tools.ReviewItemsProcessingPlugin: Create of cat_reviewrequest" Id="06c8a34d-542d-ec11-b6e5-002248209036" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+        <Plugin friendlyname="c15e3c30-5835-45ac-9b84-6a19182c62e5" Name="Net.Formulas.Tools.Tools.CodeAutoFailProcessPlugin" Id="a60980f4-66df-4225-862a-b39fb0ce395a" TypeName="Net.Formulas.Tools.Tools.CodeAutoFailProcessPlugin">
+          <Steps>
+            <Step Name="Code AutoFail : Update Screen" Description="Net.Formulas.Tools.Tools.CodeAutoFailProcessPlugin: Update of cat_reviewrequest" Id="bfb424fa-c1ad-eb11-8236-000d3a18d295" FilteringAttributes="cat_txt_listfails" MessageName="Update" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_rev_screens">
+              <Images />
+            </Step>
+            <Step Name="Code AutoFail : Update Screen" Description="Net.Formulas.Tools.Tools.CodeAutoFailProcessPlugin: Update of cat_rev_screens" Id="df1205db-532d-ec11-b6e5-002248209036" MessageName="Update" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_rev_screens">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+        <Plugin friendlyname="7c6d3f8f-9797-4166-95d2-58430feec016" Name="Net.Formulas.Tools.Pluggin.AppSettingsProcessingPlugin" Id="479aa861-da5a-4d3c-be96-c7181d0d6291" TypeName="Net.Formulas.Tools.Pluggin.AppSettingsProcessingPlugin">
+          <Steps>
+            <Step Name="AppSettings : Request Creation" Description="Net.Formulas.Tools.Pluggin.AppSettingsProcessingPlugin: Create of cat_reviewrequest" Id="9918091b-39aa-eb11-8236-000d3a18d295" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+            <Step Name="AppSettings : Request Creation" Description="Net.Formulas.Tools.Pluggin.AppSettingsProcessingPlugin: Create of any Entity" Id="cfabf234-512d-ec11-b6e5-002248209036" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+        <Plugin friendlyname="c7aa4f36-91ea-4df3-8cd6-46e6ac3898d6" Name="Net.Formulas.Tools.Pluggin.PurgeProcessingPluggin" Id="a09084db-a83f-4d7f-8971-cbf529f62f65" TypeName="Net.Formulas.Tools.Pluggin.PurgeProcessingPluggin">
+          <Steps>
+            <Step Name="Purge : Review Delete" Description="Net.Formulas.Tools.Pluggin.PurgeProcessingPluggin: Delete of cat_review" Id="339e88ce-39aa-eb11-8236-000d3a18d295" MessageName="Delete" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_review">
+              <Images />
+            </Step>
+            <Step Name="Delete of cat_reviewrequest" Description="Net.Formulas.Tools.Pluggin.PurgeProcessingPluggin: Delete of cat_reviewrequest" Id="603d8e41-532d-ec11-b6e5-002248209036" MessageName="Delete" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+        <Plugin friendlyname="9db90f5a-8eeb-4046-9954-e2ec3eb19fae" Name="Net.Formulas.Tools.Tools.ControlProcessingPluggin" Id="c4b63621-e725-42d1-87cd-d44be0c3d015" TypeName="Net.Formulas.Tools.Tools.ControlProcessingPluggin">
+          <Steps>
+            <Step Name="Screens : Request Creation" Description="Net.Formulas.Tools.Tools.ControlProcessingPluggin: Create of cat_rev_screens" Id="f69f5c9c-3aaa-eb11-8236-000d3a18d295" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_rev_screens">
+              <Images />
+            </Step>
+            <Step Name="Screens : Request Creation" Description="Net.Formulas.Tools.Tools.ControlProcessingPluggin: Create of cat_rev_screens" Id="9d837708-542d-ec11-b6e5-002248209036" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_rev_screens">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+        <Plugin friendlyname="cf1ffe8b-4b0e-4f53-92a4-e07da8552f53" Name="Pluggin_API_ImportNewApp" Id="0aa123e4-574f-48b5-8ebe-e90781f8a529" TypeName="Pluggin_API_ImportNewApp">
+          <Steps />
+        </Plugin>
+        <Plugin friendlyname="c0e0b7ae-4326-4920-808d-83c57772563d" Name="Net.Formulas.Tools.Pluggin.DataSourcesProcessingPlugin" Id="7563e4a5-f299-44a8-b2a8-f2a0df83f797" TypeName="Net.Formulas.Tools.Pluggin.DataSourcesProcessingPlugin">
+          <Steps>
+            <Step Name="DataSources : Request Creation" Description="Net.Formulas.Tools.Pluggin.DataSourcesProcessingPlugin: Create of cat_reviewrequest" Id="0fb31741-39aa-eb11-8236-000d3a18d295" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+            <Step Name="DataSources : Request Creation" Description="Net.Formulas.Tools.Pluggin.DataSourcesProcessingPlugin: Create of cat_reviewrequest" Id="7a8229fb-522d-ec11-b6e5-002248209036" MessageName="Create" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+        <Plugin friendlyname="8ad0482a-e44a-4809-aa21-98456334d8bf" Name="Pluggin_API_SendRepport" Id="1abaf598-d250-4f93-86a8-f9772f57fe9b" TypeName="Pluggin_API_SendRepport">
+          <Steps>
+            <Step Name="CustomApi 'API_SendRepport' implementation" Description="CustomApi 'API_SendRepport' implementation" Id="abf83e77-0188-ec11-93b0-000d3ab7bdc7" MessageName="API_SendRepport" Mode="0" Rank="0" Stage="30" SupportedDeployment="0" PrimaryEntityName="none">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+        <Plugin friendlyname="9e67541b-a268-4369-8857-5e923fabec57" Name="Net.Formulas.Tools.Tools.AutoFailProcessPlugin" Id="2545fbdb-e650-4e64-b58e-fe66cb4c4c46" TypeName="Net.Formulas.Tools.Tools.AutoFailProcessPlugin">
+          <Steps>
+            <Step Name="AutoFails : Request Update" Description="Net.Formulas.Tools.Tools.AutoFailProcessPlugin: Update of cat_reviewrequest" Id="1a5c32fe-3aaa-eb11-8236-000d3a18d295" FilteringAttributes="cat_chc_appcheckerstatus,cat_requeststatus" MessageName="Update" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+            <Step Name="AutoFails : Request Update" Description="Net.Formulas.Tools.Tools.AutoFailProcessPlugin: Update of cat_reviewrequest" Id="4cec378f-532d-ec11-b6e5-002248209036" MessageName="Update" Mode="1" Rank="1" Stage="40" SupportedDeployment="0" PrimaryEntityName="cat_reviewrequest">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+      </PluginTypes>
+      <WorkflowTypes />
+    </Solution>
+  </Solutions>
+</Register>
